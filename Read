@@ -1,0 +1,4 @@
+A website blocker that helps you to work by stopping to move to some websites.
+It runs in background and can run from the start of the commpputer.
+To enable that in windows-schedule the tasks in task scheduler and
+in linux/mac you have to use the sudo hostpath by tracking into sudo crntab
